@@ -28,6 +28,7 @@ export default function CardList() {
           return (
             <CardItem
               key={index}
+              id={index}
               title={item.title}
               description={item.description}
               imageURL={item.imageURL}
