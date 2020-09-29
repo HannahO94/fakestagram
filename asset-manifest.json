@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fakestagram/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/fakestagram/static/js/main.94ef053f.chunk.js",
+    "main.js.map": "/fakestagram/static/js/main.94ef053f.chunk.js.map",
+    "runtime-main.js": "/fakestagram/static/js/runtime-main.d5d96a28.js",
+    "runtime-main.js.map": "/fakestagram/static/js/runtime-main.d5d96a28.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/fakestagram/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.4ca13c0c.chunk.js": "/fakestagram/static/js/2.4ca13c0c.chunk.js",
+    "static/js/2.4ca13c0c.chunk.js.map": "/fakestagram/static/js/2.4ca13c0c.chunk.js.map",
+    "index.html": "/fakestagram/index.html",
+    "precache-manifest.023b2333759e506980ce4f0a994a8777.js": "/fakestagram/precache-manifest.023b2333759e506980ce4f0a994a8777.js",
+    "service-worker.js": "/fakestagram/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/fakestagram/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/fakestagram/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4ca13c0c.chunk.js.LICENSE.txt": "/fakestagram/static/js/2.4ca13c0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5d96a28.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.4ca13c0c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.94ef053f.chunk.js"
+  ]
+}
